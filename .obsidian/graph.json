@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Computer Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Data Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Entrepreneurship  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Quantitative Finance\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16579836
+      }
+    },
+    {
+      "query": "path:\"Quantum Computing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Web Saves\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Obsidian  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Mathematics  ",
+      "color": {
+        "a": 1,
+        "rgb": 14377728
+      }
+    },
+    {
+      "query": "path:Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 6496545
+      }
+    },
+    {
+      "query": "path:Philosophy  ",
+      "color": {
+        "a": 1,
+        "rgb": 9857190
+      }
+    },
+    {
+      "query": "path:\"Personal Finance\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711705
+      }
+    },
+    {
+      "query": "path:Attachements  ",
+      "color": {
+        "a": 1,
+        "rgb": 7368816
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.19359746879252815,
+  "close": true
+}
