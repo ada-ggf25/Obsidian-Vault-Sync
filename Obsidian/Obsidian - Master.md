@@ -8,3 +8,4 @@
 * [[How to Organize the Vault]]
 * [[New Notes Links]]
 * [[Fix Notes]]
+* [[Plugins]]
