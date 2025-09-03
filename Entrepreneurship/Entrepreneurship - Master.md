@@ -7,3 +7,4 @@
 * [[Loaded Dice]]
 * [[3D LLM Graph]]
 * [[Cool Connection]]
+* [[Neo4j Use Case]]

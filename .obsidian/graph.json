@@ -90,6 +90,20 @@
         "a": 1,
         "rgb": 7368816
       }
+    },
+    {
+      "query": "path:Law  ",
+      "color": {
+        "a": 1,
+        "rgb": 4591951
+      }
+    },
+    {
+      "query": "path:History  ",
+      "color": {
+        "a": 1,
+        "rgb": 16671369
+      }
     }
   ],
   "collapse-display": false,
@@ -102,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19359746879252815,
+  "scale": 0.22707984835384368,
   "close": true
 }

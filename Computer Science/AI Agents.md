@@ -5,6 +5,7 @@
 [[Longchain]]
 [[LangGraph]]
 [[LlamaIndex]]
+[[Google A2A Protocol]]
 
 ![[a-practical-guide-to-building-agents.pdf]]
 

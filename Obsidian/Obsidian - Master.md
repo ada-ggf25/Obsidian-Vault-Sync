@@ -9,3 +9,4 @@
 * [[New Notes Links]]
 * [[Fix Notes]]
 * [[Plugins]]
+* [[Obsidian Vault Git]]

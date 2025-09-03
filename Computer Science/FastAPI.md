@@ -1,5 +1,5 @@
 
-#api #computer_science #containers #deploy #images 
+#api #computer_science #containers #deploy #images #backend 
 
 Em FastAPI, os decoradores são usados para vincular funções a rotas HTTP ou a eventos do ciclo de vida da aplicação. A seguir, explico os principais decoradores utilizados e dou exemplos de cada um:
 

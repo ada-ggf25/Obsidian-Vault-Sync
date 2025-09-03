@@ -58,6 +58,11 @@
 * [[Full Deployment Workflow - Eco AI.ly]]
 * [[Framer]]
 
+## Backend:
+
+* [[Postman]]
+* [[Wrapper]]
+
 ### API:
 
 * [[FastAPI]]
@@ -79,6 +84,9 @@
 * [[Longchain]]
 * [[LangGraph]]
 * [[LlamaIndex]]
+* [[RAG]]
+* [[MCP]]
+* [[GraphRAG]]
 
 ### New Tools:
 

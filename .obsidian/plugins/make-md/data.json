@@ -38,9 +38,9 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//github_backup/github_backup/Physics",
-    "//Tags"
+    "/",
+    "//Local"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -217,3 +217,6 @@
 **Future Developmentes:**
 
 - Though we have achieved a decent outcome from our proposed solution, this research has more potential towards research in future. During the evaluation procedure, we also found that the RFE algorithm is not sensitive to the term lengths other than 2-day, weekly, biweekly. Getting more in-depth research into what technical indices would influence the irregular term lengths would be a possible future research direction. More over, by combining latest sentiment analysis techniques with feature engineering and deep learning model, there is also a high potential to develop a more comprehensive pre diction system which is trained by diverse types of information such as tweets, news, and other text-based data.
+
+
+![[Pasted image 20250417162716.png]]
