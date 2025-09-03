@@ -4,4 +4,4 @@ Well you tried to run the git plugin for Obsidian, that way you wouldn't need to
 
 That gave you the idea to use the process of the plugin without the automation part, meaning that you would do the git actions manually, but still treat your Obsidian Vault as a GitHub repo to be able to sync it across devices. This way you do not need the problematic plugin and everything still works just fine.
 
-#Guilherme Grancho#
+**Guilherme Grancho**
