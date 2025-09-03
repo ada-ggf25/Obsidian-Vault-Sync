@@ -1,7 +1,7 @@
 # My Obsydian Vault Sync
 
-Well you tried to run the git plugin for Obsidian, that way you wouldn't need to pay the Obsidian proprietary sync software to always have your vault updated across devices, you would be using GitHub to as a sync cloud storage and your obsidian vault would work as any other regular GitHub repo with the classic repo git action to sync across devices. However, after a few hours you found many competing problems with this solution (highly probable to not lose time trying it again), many users of the plugin complain saying that the automated git action that should work by using the plugin weren't working properly.
+Well, you tried to use the Git plugin for Obsidian so you wouldn’t have to pay for Obsidian’s proprietary Sync service to keep your vault in sync across devices. You’d use GitHub as cloud storage, and your Obsidian vault would work like any other GitHub repository, using standard Git operations to sync across devices. However, after a few hours you ran into several problems with this approach (so it’s probably not worth trying again). Many users have also complained that the plugin’s automated Git actions weren’t working properly.
 
-That gave you the idea to use the process of the plugin without the automation part, meaning that you would do the git actions manually, but still treat your Obsidian Vault as a GitHub repo to be able to sync it across devices. This way you do not need the problematic plugin and everything still works just fine.
+That led you to adopt the same process as the plugin but without the automation: you perform the Git actions manually while still treating your Obsidian vault as a GitHub repository to sync across devices. This way, you don’t need the problematic plugin, and everything still works.
 
 **Guilherme Grancho**
