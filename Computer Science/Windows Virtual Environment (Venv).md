@@ -1,5 +1,5 @@
 
-#computer_science 
+#computer_science #virtual_environment
 
 
 To test and run your Streamlit project, follow these steps:

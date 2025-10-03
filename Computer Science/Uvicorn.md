@@ -1,4 +1,4 @@
-#backend #api #pyhton #computer_science #deploy 
+#backend #api #python  #computer_science #deploy 
 
 [[FastAPI & Uvicorn]]
 - [ ] [[UV Vs Uvicorn]]

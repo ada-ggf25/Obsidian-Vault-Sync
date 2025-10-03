@@ -1,7 +1,7 @@
 #computer_science #os 
 
 [[Comandos Windows]]
-[[Windows Virtual Environment]]
+[[Windows Virtual Environment (Venv)]]
 
 Here’s a comprehensive guide to essential Windows keyboard shortcuts, organized by category to help you navigate and operate your system more efficiently.
 

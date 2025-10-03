@@ -1,4 +1,4 @@
-#math #computer_science #calculus #pyhton
+#math #computer_science #calculus #python 
 
 Sim – uma vez que você tenha um interpolador s ⁣:R5→Rs\colon\R^5\to\R (seja RBF, Gaussian Process, etc.), o problema de encontrar
 
