@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a789d602fce0ab51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Google A2A Protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Google A2A Protocol"
-            }
-          },
-          {
-            "id": "85fa716dbec011b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Obsidian - Master.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian - Master"
-            }
-          },
-          {
-            "id": "e2a6217d4ecb3d86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Entropy in Quantum Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entropy in Quantum Systems"
-            }
-          },
-          {
             "id": "7397277b875217f1",
             "type": "leaf",
             "state": {
@@ -59,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "anaconda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +71,7 @@
             }
           },
           {
-            "id": "f7eaf08fc71c807c",
+            "id": "0b6b41651712825e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -123,7 +80,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,15 +207,15 @@
       "transfer-latex-from-gpt:Convert LaTeX to MathJax": false
     }
   },
-  "active": "7397277b875217f1",
+  "active": "41535abdaded5552",
   "lastOpenFiles": [
-    "Readme.md",
+    "Computer Science/Google A2A Protocol.md",
+    "Obsidian/Obsidian - Master.md",
     "Physics/Entropy in Quantum Systems.md",
+    "Readme.md",
     "Physics/Physics - Master.md",
     "Physics/Why do we only remember our past and not our future.md",
-    "Obsidian/Obsidian - Master.md",
     "Obsidian/Obsidian Vault Git.md",
-    "Computer Science/Google A2A Protocol.md",
     "Computer Science/Implementing A2A Protocol With Helping Libraries -Python.md",
     "Computer Science/Implementing A2A Protocol Without Helping Libraries.md",
     "Computer Science/Why to use A2A Protocol.md",
