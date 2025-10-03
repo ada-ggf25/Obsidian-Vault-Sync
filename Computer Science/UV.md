@@ -1,5 +1,5 @@
 
-#computer_science 
+#computer_science #virtual_environment
 
 
 [[UV & Streamlit]]

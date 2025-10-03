@@ -1,6 +1,6 @@
 
 #computer_science #github #git #api #containers #images #os #deploy #AI #LLM
-#algorithms #data_science #api #dicas_do_pedro #entrepreneurship #ide #tensorflow #scalers #quantum_computing #quantitative_finance #numpy #new_tools #machine_learning #frontend #remote_pc #python 
+#algorithms #data_science #api #dicas_do_pedro #entrepreneurship #ide #tensorflow #scalers #quantum_computing #quantitative_finance #numpy #new_tools #machine_learning #frontend #remote_pc #python #math 
 
 ### [[Dicas do Pedro]]:
 
@@ -11,28 +11,39 @@
 * [[Async Paradigm]]
 * [[Rationale]]
 * [[Conventional Commits]]
+
 ### Project Dev Tools:
 
 * [[UV]]
-* [[Windows Virtual Environment]] 
+* [[Windows Virtual Environment (Venv)]] 
 * [[GitHub Gist]]
 * [[GitLab]]
 * [[FastAPI]]
+* [[Conda]]
+* [[Miniconda]]
+* [[Mambaforge]]
 
-### Python Tools:
+### Python:
 
 * [[Pydantic]]
 * [[Ruff]]
+* [[Python Variables]]
+* [[Matplotlib]]
+* [[Python Classes]]
+* [[Python Lambda Funtions]]
+* [[Python Tips]]
+* [[Shallow Copy Vs Deep Copy]]
 
 ### GitHub:
 
 * [[GitHub Gist]]
 * [[GitHub]]
 
-### [[Git]]:
+### Git:
 
 * [[GitLab]]
 * [[GitHub]]
+* [[Git]]
 
 ### Containers:
 
@@ -123,4 +134,7 @@
 
 * [[Python]]
 
+### Books:
+
+* [[Computer Science - Literacy]]
 

@@ -1,5 +1,5 @@
 
-#quantum #quantum_computing #computer_science #digiq
+#quantum #quantum_computing #computer_science 
 
 ### Deloitte (intership):
 

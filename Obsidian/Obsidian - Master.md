@@ -10,3 +10,11 @@
 * [[Fix Notes]]
 * [[Plugins]]
 * [[Obsidian Vault Git]]
+
+### Sync Solution:
+
+* [[Readme]]
+
+### Math Formulas:
+
+* [[Math Notation]]
