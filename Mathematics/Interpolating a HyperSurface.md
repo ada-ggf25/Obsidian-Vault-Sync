@@ -1,4 +1,4 @@
-#math #computer_science #calculus #pyhton
+#math #computer_science #calculus #python 
 
 Sim – embora a “superfície” em 5 D seja impossível de visualizar diretamente, você pode interpolar valores em qualquer número de dimensões usando técnicas de **interpolação multivariada**. As abordagens mais comuns são:
 

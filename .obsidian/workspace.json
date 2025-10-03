@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0757a5b1850e8c63",
+        "id": "202acc9cc09627bb",
         "type": "tabs",
         "children": [
           {
-            "id": "a789d602fce0ab51",
+            "id": "5cc00ea1b0f69762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Google A2A Protocol.md",
+                "file": "Computer Science/Computer Science - Master.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google A2A Protocol"
+              "title": "Computer Science - Master"
             }
           },
           {
-            "id": "85fa716dbec011b6",
+            "id": "a84e485d1323a8d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian - Master.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian - Master"
+              "title": "Readme"
             }
           },
           {
-            "id": "e2a6217d4ecb3d86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Entropy in Quantum Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entropy in Quantum Systems"
-            }
-          },
-          {
-            "id": "7397277b875217f1",
+            "id": "be46e196b8c1abf2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -60,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,22 +98,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "f7eaf08fc71c807c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.50694274902344
+    "width": 300.5110321044922
   },
   "right": {
     "id": "8197b294040e041f",
@@ -189,22 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mathematics/Game Theory - Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "8c5faaafcc3f071d",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "title": "Outline of Game Theory - Overview"
             }
           },
           {
@@ -222,11 +189,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,44 +216,45 @@
       "transfer-latex-from-gpt:Convert LaTeX to MathJax": false
     }
   },
-  "active": "7397277b875217f1",
+  "active": "a84e485d1323a8d1",
   "lastOpenFiles": [
-    "Readme.md",
-    "Physics/Entropy in Quantum Systems.md",
-    "Physics/Physics - Master.md",
-    "Physics/Why do we only remember our past and not our future.md",
-    "Obsidian/Obsidian - Master.md",
-    "Obsidian/Obsidian Vault Git.md",
-    "Computer Science/Google A2A Protocol.md",
-    "Computer Science/Implementing A2A Protocol With Helping Libraries -Python.md",
-    "Computer Science/Implementing A2A Protocol Without Helping Libraries.md",
-    "Computer Science/Why to use A2A Protocol.md",
-    "Computer Science/Why to use A2A.md",
-    "Computer Science/AI Agents.md",
+    "Computer Science/Miniconda Vs Venv.md",
+    "Computer Science/Miniconda.md",
     "Computer Science/Computer Science - Master.md",
-    "Tags",
-    "Law/United Arab Emirates Law.md",
-    "Computer Science/GraphRAG - Agentic Traversal Vs Dynamic Cypher (Text2Cypher).md",
-    "Mathematics/Graph Theory - Overview.md",
-    "Computer Science/GraphRAG - Agentic Traversal.md",
-    "Computer Science/Types of GraphRAG.md",
-    "Computer Science/GraphRAG.md",
-    "Law/English Law.md",
-    "Law/Law - Master.md",
-    "Law/Civil-Law Jurisdictions Vs Common Law.md",
-    "Law/UAE - Civil-Law Jurisdictions Vs Common Law.md",
-    "Law/UAE Law - Onshore vs. DIFC vs. ADGM.md",
-    "Law/UAE Law for Muslims and Non-Muslims.md",
-    "Law/UAE Court of Cassation.md",
-    "History",
-    "Local",
-    "GraphRAG - DRIFT",
-    "Law",
-    "Tags/#graphs",
-    "Tags/#database",
-    "Tags/#genai",
-    "Tags/#data_science",
-    "Tags/#llm",
+    "Computer Science/Conda.md",
+    "Computer Science/Mambaforge.md",
+    "Computer Science/Miniconda Vs Miniforge.md",
+    "Quantitative Finance/Quantitative Finance - Master.md",
+    "Computer Science/Conda Vs Mamba.md",
+    "Anaconda Vs Miniconda Vs Miniforge",
+    "Computer Science/Conda Vs Miniconda.md",
+    "Computer Science/Venv.md",
+    "Computer Science/Windows Virtual Environment (Venv).md",
+    "Computer Science/UV.md",
+    "Mathematics/Higher Dimensions.md",
+    "Computer Science/Computer Science - Literacy.md",
+    "Mathematics/Applied Statistics.md",
+    "Untitled.md",
+    "Personal Finance/Trade Republic - Gold.md",
+    "Personal Finance/Trade Republic.md",
+    "Personal Finance/Personal Finance - Master.md",
+    "Mathematics/Quaternions.md",
+    "Quantitative Finance/ETCs.md",
+    "Mathematics/Mathematics - Master.md",
+    "Computer Science/Shallow Copy Vs Deep Copy.md",
+    "Computer Science/Git.md",
+    "Computer Science/Git Backup.md",
+    "Computer Science/Python Tips.md",
+    "Computer Science/Additional Python Tips and Techniques — ACSE Presessional material.pdf",
+    "Computer Science/Lambdas — ACSE Presessional material.pdf",
+    "Computer Science/Python classes — ACSE Presessional material.pdf",
+    "Computer Science/Plotting data with Matplotlib — ACSE Presessional material.pdf",
+    "Computer Science/Variables — ACSE Presessional material.pdf",
+    "Mathematics/Introduction to statistics for Geoscientists — ACSE Presessional material.pdf",
+    "Mathematics/Linear regression — ACSE Presessional material.pdf",
+    "Mathematics/Self-similar solutions — ACSE Presessional material.pdf",
+    "Mathematics/Wave equation — ACSE Presessional material.pdf",
+    "Untitled.canvas",
     "Attachements/Pasted image 20250417162716.png",
     "Attachements/image.png",
     "github_backup/Attachements/image2.png",
@@ -297,7 +265,6 @@
     "github_backup/Attachements/Pasted image 20250417163158.png",
     "github_backup/Attachements/Pasted image 20250417163131.png",
     "github_backup/Attachements/Pasted image 20250417163107.png",
-    "Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

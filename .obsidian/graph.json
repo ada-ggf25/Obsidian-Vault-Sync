@@ -104,6 +104,20 @@
         "a": 1,
         "rgb": 16671369
       }
+    },
+    {
+      "query": "path:Productivity  ",
+      "color": {
+        "a": 1,
+        "rgb": 14390728
+      }
+    },
+    {
+      "query": "path:\"Social Media\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2645023
+      }
     }
   ],
   "collapse-display": false,
@@ -116,6 +130,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22707984835384368,
+  "scale": 0.21370436142865848,
   "close": true
 }

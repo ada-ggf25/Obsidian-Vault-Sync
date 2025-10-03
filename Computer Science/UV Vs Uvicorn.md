@@ -1,4 +1,4 @@
-#backend #api #pyhton #computer_science #deploy 
+#backend #api #python  #computer_science #deploy 
 
 Should I use anything but uvicorn? or is uvicorn the standard for this? What about uv-astrall?
 

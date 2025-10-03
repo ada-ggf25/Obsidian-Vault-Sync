@@ -1,5 +1,5 @@
 
-#computer_science #data_science #article #quantitative_finance #alpaca #polygon #api #machine_learning #AI #tensorflow #algorithms #scalers #quant_metrics #economics 
+#computer_science #data_science #article #quantitative_finance #alpaca #polygon #api #machine_learning #AI #tensorflow #algorithms #scalers #quant_metrics #economics #math
 
 ### Scientific Articles:
 
@@ -25,3 +25,12 @@
 ### Trading Actions:
 
 * [[Forced Selling]]
+
+### Slippage:
+
+* [[Slippage on Basis Points (bps)]]
+* [[Slippage Backteste]]
+
+### Derivatives:
+
+* [[ETCs]]
