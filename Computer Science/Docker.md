@@ -1,5 +1,5 @@
 
-#computer_science #containers #api #images #backend 
+#computer_science #containers #api #images #backend #virtual_environment
 
 [[Pushing to Docker]]
 [[Docker - Remapping a Port]]
@@ -308,4 +308,12 @@ Would you like a diagram of how these relate in a typical development cycle?
 - `docker image prune`
     
     Remove imagens não utilizadas.
-    
+
+
+---
+
+Gotcha—you want that image text as actual text. Here it is:
+
+“A virtualenv only encapsulates Python dependencies. A Docker container encapsulates an entire operating system (OS). With a Python virtualenv, you can easily switch between Python versions and dependencies, but you're stuck with your host OS. With a Docker image, you can swap out the entire OS—install and run Python on Ubuntu, Debian, Alpine, even Windows Server Core. There are Docker images out there with every combination of OS and Python versions you can think of, ready to pull down and use on any system with Docker installed.
+
+Tools such as Docker are excellent for testing software packages and cross operating system/hardware compatibility. For software development, tools such as conda are generally more convenient.”
