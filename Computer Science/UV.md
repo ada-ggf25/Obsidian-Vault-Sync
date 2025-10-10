@@ -3,6 +3,7 @@
 
 
 [[UV & Streamlit]]
+[[Uv Quick Guide]]
 
 
 UV já é um virtual enviorment portanto se quiseres correr alguma coisa dentro dele apenas digitas:

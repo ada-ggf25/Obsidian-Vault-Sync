@@ -54,6 +54,10 @@
 * [[Pandas]]
 * [[List Comprehensions Vs Generator Expressions]]
 * [[Generator Function]]
+* [[pdb]]
+* [[Pytest]]
+* [[Doctest]]
+* [[Sphinx]]
 
 ### Git:
 
