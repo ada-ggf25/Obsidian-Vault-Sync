@@ -11,5 +11,5 @@
 [[Numpy - Roll]]
 [[Numpy - isclose]]
 [[Numpy - Testing]]
-[[Numpy - array_equal]]
+[[Numpy - Array Equal]]
 [[Numpy - Random]]

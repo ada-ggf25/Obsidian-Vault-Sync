@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science - Master.md",
+                "file": "Computer Science/Numpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Science - Master"
+              "title": "Numpy"
             }
           },
           {
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.50694274902344
+    "width": 269.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "8197b294040e041f",
@@ -239,10 +240,10 @@
   },
   "active": "fed8226e45fdfa6d",
   "lastOpenFiles": [
-    "Computer Science/Numpy.md",
     "Computer Science/Numpy - Random.md",
+    "Computer Science/Numpy.md",
+    "Computer Science/Numpy - Array Equal.md",
     "Computer Science/Numpy - Testing.md",
-    "Computer Science/Numpy - array_equal.md",
     "Computer Science/Numpy - isclose.md",
     "Computer Science/Numpy - Roll.md",
     "Computer Science/Numpy - Pad.md",
