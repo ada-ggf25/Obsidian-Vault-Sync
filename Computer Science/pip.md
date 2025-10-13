@@ -1,4 +1,7 @@
- #python #computer_science #virtual_environment
+ #python #computer_science #virtual_environment #computer_theory
+
+[[pip Cheat Cheet]]
+[[pip install -e]]
 
 Here’s a crisp pip primer + a practical cheat sheet.
 

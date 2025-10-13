@@ -58,6 +58,19 @@
 * [[Pytest]]
 * [[Doctest]]
 * [[Sphinx]]
+* [[PyPl]]
+* [[sys.argv]]
+* [[! & %]]
+* [[PEP Protocols]]
+* [[pyproject.toml VS setup.py]]
+* [[pip]]
+* [[publish and unpublish python packages]]
+* [[argparse]]
+* [[main()]]
+* [[__init__.py]]
+* [[__pychace__ & .pytest_cache]]
+* [[$ Commands]]
+* [[Useful Tools]]
 
 ### Git:
 
@@ -66,6 +79,7 @@
 * [[GitLab]]
 * [[GitHub]]
 * [[Git]]
+
 
 ### Containers:
 

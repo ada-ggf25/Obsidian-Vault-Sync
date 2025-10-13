@@ -5,7 +5,8 @@
 [[git add Vs git commit]]
 [[git add Vs git stage]]
 [[git pull —ff-only]]
-
+[[gitattributes]]
+[[Commit or not Commit]]
 # Git Cheat Sheet
 
 ## Introduction
