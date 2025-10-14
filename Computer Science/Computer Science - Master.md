@@ -79,6 +79,9 @@
 * [[GitLab]]
 * [[GitHub]]
 * [[Git]]
+* [[GitHub Workflows]]
+* [[GitHub Secrets]]
+* [[GitHub Actions]]
 
 
 ### Containers:
