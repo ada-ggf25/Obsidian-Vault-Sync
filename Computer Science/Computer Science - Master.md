@@ -22,6 +22,12 @@
 * [[Conda]]
 * [[Miniconda]]
 * [[Mambaforge]]
+* [[Docker]]
+* [[Virtualenv]]
+* [[environment.yml (Conda)]]
+* [[requirements.txt (pip)]]
+* [[pyproject.toml]]
+* [[environment.yml Vs requirements.txt Vs pyproject.toml]]
 
 ### Python:
 
@@ -33,14 +39,16 @@
 * [[Python Lambda Funtions]]
 * [[Python Tips]]
 * [[Shallow Copy Vs Deep Copy]]
-
-### GitHub:
-
-* [[GitHub Gist]]
-* [[GitHub]]
+* [[pip]]
+* [[Python]]
+* [[PyBryt]]
+* [[Numpy]]
+* [[SciPy]]
 
 ### Git:
 
+* [[GitHub Gist]]
+* [[GitHub]]
 * [[GitLab]]
 * [[GitHub]]
 * [[Git]]
@@ -117,10 +125,14 @@
 * [[Next.js]]
 * [[CMS]]
 * [[npm]]
+* [[Widget]]
 
-### Vetorization:
+### Computer Theory:
 
 * [[Tensorflow VS Numpy]]
+* [[Multidimensional Array Vs Tensor]]
+* [[Flipping N-dimensions Arrays]]
+* [[Numpy - Views & Copies Vs Python - Views & Copies]]
 
 ### TensorFlow:
 
@@ -137,4 +149,10 @@
 ### Books:
 
 * [[Computer Science - Literacy]]
+
+### Terminal:
+
+* [[echo $PATH]]
+
+
 

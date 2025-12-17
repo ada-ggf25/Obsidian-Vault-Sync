@@ -1,6 +1,10 @@
 #computer_science #github #git 
 
 [[Git Backup]]
+[[Git Rebase]]
+[[git add Vs git commit]]
+[[git add Vs git stage]]
+[[git pull —ff-only]]
 
 # Git Cheat Sheet
 
