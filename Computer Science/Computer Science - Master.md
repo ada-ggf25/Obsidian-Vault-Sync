@@ -1,6 +1,6 @@
 
 #computer_science #github #git #api #containers #images #os #deploy #AI #LLM
-#algorithms #data_science #api #dicas_do_pedro #entrepreneurship #ide #tensorflow #scalers #quantum_computing #quantitative_finance #numpy #new_tools #machine_learning #frontend #remote_pc #python #math 
+#algorithms #data_science #api #dicas_do_pedro #entrepreneurship #ide #tensorflow #scalers #quantum_computing #quantitative_finance #numpy #new_tools #machine_learning #frontend #remote_pc #python #math #computer_theory
 
 ### [[Dicas do Pedro]]:
 
@@ -44,6 +44,33 @@
 * [[PyBryt]]
 * [[Numpy]]
 * [[SciPy]]
+* [[cProfilein Recursive Functions]]
+* [[@functools.cache]]
+* [[Hashables]]
+* [[Hash Value]]
+* [[Numba]]
+* [[Cython]]
+* [[memory_usage]]
+* [[Pandas]]
+* [[List Comprehensions Vs Generator Expressions]]
+* [[Generator Function]]
+* [[pdb]]
+* [[Pytest]]
+* [[Doctest]]
+* [[Sphinx]]
+* [[PyPl]]
+* [[sys.argv]]
+* [[! & %]]
+* [[PEP Protocols]]
+* [[pyproject.toml VS setup.py]]
+* [[pip]]
+* [[publish and unpublish python packages]]
+* [[argparse]]
+* [[main()]]
+* [[__init__.py]]
+* [[__pychace__ & .pytest_cache]]
+* [[$ Commands]]
+* [[Useful Tools]]
 
 ### Git:
 
@@ -52,6 +79,10 @@
 * [[GitLab]]
 * [[GitHub]]
 * [[Git]]
+* [[GitHub Workflows]]
+* [[GitHub Secrets]]
+* [[GitHub Actions]]
+
 
 ### Containers:
 
@@ -133,6 +164,7 @@
 * [[Multidimensional Array Vs Tensor]]
 * [[Flipping N-dimensions Arrays]]
 * [[Numpy - Views & Copies Vs Python - Views & Copies]]
+* [[Wall Time Vs CPU Time]]
 
 ### TensorFlow:
 
