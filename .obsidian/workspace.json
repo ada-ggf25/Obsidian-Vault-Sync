@@ -11,6 +11,20 @@
             "id": "c23069ea521db0f6",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politics/Politics - Master.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Politics - Master"
+            }
+          },
+          {
+            "id": "b2fc602032c6ad5e",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "O notation",
+                "query": "Sph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +85,7 @@
             }
           },
           {
-            "id": "22d8bd225f7d0544",
+            "id": "d23a77952f8e090f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,13 +94,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.50694274902344,
-    "collapsed": true
+    "width": 269.50694274902344
   },
   "right": {
     "id": "8197b294040e041f",
@@ -211,7 +223,17 @@
   },
   "active": "c23069ea521db0f6",
   "lastOpenFiles": [
+    "Politics/Politics - Master.md",
+    "Politics/Political Ideologies Index.md",
+    "Politics/Economic Ideologies Index.md",
+    "Politics/Capitalism Vs Democratic Economy.md",
+    "Politics/Social Libertarianism.md",
+    "Politics/Marxism & Liberalism & Libertarianism.md",
+    "Politics/Libertarianism Vs Liberalism.md",
+    "Politics",
+    "Computer Science/Sphinx.md",
     "Computer Science/Computer Science - Master.md",
+    "Computer Science/$ Commands.md",
     "Computer Science/GitHub Actions.md",
     "Computer Science/GitHub Secrets.md",
     "Computer Science/GitHub Workflows.md",
@@ -221,7 +243,6 @@
     "Computer Science/Useful Tools.md",
     "Computer Science/Python Checkers.md",
     "Computer Science/__pychace__ & .pytest_cache.md",
-    "Computer Science/$ Commands.md",
     "Computer Science/Commit or not Commit.md",
     "Computer Science/gitattributes.md",
     "Computer Science/__init__.py.md",
@@ -229,14 +250,6 @@
     "Computer Science/argparse.md",
     "Computer Science/argpase Vs sys.argv.md",
     "Computer Science/publish and unpublish python packages.md",
-    "Computer Science/pip.md",
-    "Computer Science/pip Cheat Cheet.md",
-    "Computer Science/pip install -e.md",
-    "Computer Science/pyproject.toml VS setup.py.md",
-    "Computer Science/PEP Protocols.md",
-    "Computer Science/PEP 518.md",
-    "Computer Science/PEP 257.md",
-    "Computer Science/PEP 440.md",
     "%prun",
     "Tags",
     "History",
@@ -246,7 +259,6 @@
     "Tags/#graphs",
     "Tags/#database",
     "Tags/#genai",
-    "Tags/#data_science",
     "Attachements/Pasted image 20250417162716.png",
     "Attachements/image.png",
     "github_backup/Attachements/image2.png",

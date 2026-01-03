@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 11119047
       }
+    },
+    {
+      "query": "path:Politics  ",
+      "color": {
+        "a": 1,
+        "rgb": 10345723
+      }
     }
   ],
   "collapse-display": false,
@@ -137,6 +144,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17762077600058432,
+  "scale": 0.12213591434456249,
   "close": true
 }

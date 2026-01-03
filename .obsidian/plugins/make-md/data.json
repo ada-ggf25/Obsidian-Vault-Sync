@@ -41,8 +41,7 @@
     "//github_backup/github_backup/Physics",
     "/",
     "//Local",
-    "//%prun",
-    "//Computer Science"
+    "//%prun"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
